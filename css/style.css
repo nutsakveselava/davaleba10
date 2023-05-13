@@ -178,6 +178,57 @@ color: #000000;
 margin-top: 16px;
 }
 /* section3 */
+.section3{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 96px 150px;
 
+width: 1440px;
+height: 620px;
+gap: 133px;
+
+/* Black */
+
+background: #000000;
+
+}
+.textdiv1{
+
+}
+h2{
+    width: 503.5px;
+height: 64px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+/* or 133% */
+
+letter-spacing: -0.1px;
+
+color: #FFFFFF;
+margin-bottom: 16px;
+
+}
+.txt5{
+    width: 503.5px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: 0.1px;
+
+color: #FFFFFF;
+
+}
 
 
