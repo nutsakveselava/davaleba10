@@ -33,7 +33,7 @@ color:  #000000;
 ;
   }
 
-  button{
+ button{
     height: 48px;
 width: 100px;
 left: 1308px;
@@ -55,3 +55,82 @@ color: aliceblue;
 
   }
 /* section */
+.section1{
+    
+    padding-right: 165px;
+    padding-left: 165px;
+}
+.sectiondiv{
+    margin-inline: auto;
+    width: 77%;
+    display: flex;
+    justify-content: space-between;
+    gap: 130px;
+   
+}
+.textdiv{
+    padding-top: 230px;
+    padding-left: 165px;
+    padding-bottom: 138px;
+}
+h1{
+    width: 490px;
+    height: 120px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 60px;
+    /* or 107% */
+    
+    letter-spacing: -1px;
+    
+    color: #000000;
+
+}
+.txt1{
+    width: 490px;
+height: 56px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+margin-top: 24px;
+margin-bottom: 40px;
+
+
+color: #000000;
+}
+.txt2{
+    width: 236px;
+height: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+/* display: flex;
+align-items: center; */
+
+color: #000000;
+display: inline-block;
+vertical-align: middle;
+margin-left: 20px;
+
+}
+
+.photodiv{
+    padding-top: 160px;
+    padding-bottom: 64px;
+    padding-right: 165px;
+}
+
+
+
