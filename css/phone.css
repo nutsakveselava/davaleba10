@@ -1,0 +1,187 @@
+@media(max-width: 375px){
+    header{
+        width: 61px;
+        display: flex;
+        justify-content: 
+    }
+    nav{
+        display: none;
+    }
+    .button1{
+        display: none;
+    }
+    .burgermenu{
+        display: block;
+        margin-left: 241px;
+    }
+    .section1{
+        padding-left: 24px;
+        padding-right: 24px;
+        padding-bottom: 21px;
+    }
+    h1{
+        width: 327px;
+height: 97px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+/* or 121% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -1px;
+
+color: #000000;
+margin-top: 23px;
+    }
+    txt1{
+        width: 327px;
+height: 84px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+    }
+    .button2{
+        display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 10px;
+
+width: 90px;
+height: 40px;
+
+/* Black */
+
+background: #000000;
+border-radius: 32px;
+
+    }
+    .txt2{
+        width: 327px;
+height: 56px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 28px;
+/* or 200% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+    }
+    .photodiv{
+        display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 327px;
+height: 309px;
+    }
+    .box1,
+  .box2,
+  .box3{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 24px;
+gap: 10px;
+
+width: 375px;
+height: 170px;
+
+/* Anti-Flash White */
+
+background: #F3F3F3;
+
+  }
+  .section3{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px;
+gap: 14px;
+
+width: 375px;
+height: 523px;
+
+/* Black */
+
+background: #000000;
+
+  }
+  .photodiv{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 327px;
+height: 195px;
+
+  }
+  h2{
+    width: 327px;
+height: 64px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+text-align: center;
+letter-spacing: -0.1px;
+
+color: #FFFFFF;
+
+  }
+  .txt5{
+    width: 327px;
+height: 72px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+text-align: center;
+letter-spacing: 0.1px;
+
+color: #FFFFFF;
+
+  }
+
+    
+
+
+}

@@ -32,6 +32,9 @@ text-align: right;
 color:  #000000;
 ;
   }
+  .burgermenu{
+    display: none;
+  }
 
  .button1{
     height: 48px;
