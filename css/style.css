@@ -33,7 +33,7 @@ color:  #000000;
 ;
   }
 
- button{
+ .button1{
     height: 48px;
 width: 100px;
 left: 1308px;
@@ -104,6 +104,16 @@ margin-bottom: 40px;
 
 
 color: #000000;
+}
+.button2{
+    height: 48px;
+width: 100px;
+left: 1308px;
+top: 24px;
+border-radius: 32px;
+padding: 12px 24px 12px 24px;
+
+background-color: #000000;
 }
 .txt2{
     width: 236px;
